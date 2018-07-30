@@ -2,7 +2,7 @@
 include_once 'setting.inc.php';
 
 $_lang['banonip'] = 'BanOnIP';
-$_lang['banonip_menu_desc'] = 'Ban ip';
+$_lang['banonip_menu_desc'] = 'Managing blocked ip addresses';
 $_lang['banonip_intro_msg'] = 'You can select multiple items by holding Shift or Ctrl button.';
 
 $_lang['banonip_items'] = 'Items';
