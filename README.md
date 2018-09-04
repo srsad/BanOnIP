@@ -6,4 +6,4 @@
 
 ![banonip](https://image.ibb.co/kOqjAK/b1.png)
 -
-![Formit](https://image.ibb.co/bGXxVK/b2.png)
+![Formit](https://image.ibb.co/jvUEue/b2.png)
