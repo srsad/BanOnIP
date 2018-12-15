@@ -48,3 +48,4 @@ $_lang['banonip_grid_search'] = 'Поиск';
 $_lang['banonip_grid_actions'] = 'Действия';
 
 $_lang['banonip_grid_yab'] = 'Ваш ip адрес заблокирован!';
+$_lang['banonip_cif'] = 'Созданно в formit!';
