@@ -96,7 +96,7 @@ class BanOnIPItemFormitProcessor extends modProcessor {
             if (empty($status)) {
                 $c = $this->modx->newObject($this->classKey);
                 $c->set('name', $ip);
-                $c->set('description', 'creat on formit');
+                $c->set('description', $this->modx->lexicon('banonip_cif'));
                 switch ($method) {
                     case 'B_ban':
                         $c->set('b', true);
